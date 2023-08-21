@@ -1,10 +1,10 @@
-
+import Register from "./Register"
 
 
 function App() {
   return (
-    <main>
-      
+    <main className="App">
+      <Register />
     </main>
   );
 }
